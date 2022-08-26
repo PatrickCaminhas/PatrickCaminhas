@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patrick Caminhas</h1>
 <h3 align="center">I am a web developer and student at the Universidade Federal de Ouro Preto</h3>
 
-- 🌱 I’m currently learning **Nothing**
+- 🌱 I’m currently learning **Javascript**
 
 
 <p align="left">
