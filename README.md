@@ -24,7 +24,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"  width="40" height="40"/> </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40"/></a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40"/></a>
 </p>
 
 <p align="center"> 
