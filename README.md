@@ -2,7 +2,7 @@
 <h4 align="left">Sou desenvolvedor e estudante na Universidade Federal de Ouro Preto.</h3>
 
 - 💫 Estou no 7º periodo de Sistemas de informação
-- 🌱 Atualmente estou estudando **Javascript**,, **Laravel** e **Vue.js**.
+- 🌱 Atualmente estou estudando **Javascript**, **Laravel** e **Vue.js**.
 - 🏙️ Atualmente estrou trabalhando no meu TCC que tem como tema de desenvolvimento web focado para auxiliar meis, micro e pequenas empresas, a aplicação se chama <a href="https://github.com/PatrickCaminhas/SimplifiqSystem">Simplifiq</a>.
 - 📈 Estou em busca de aprimorar e aberto a novas possibilidades no mercado.
 <p  align="center"><a href="https://www.linkedin.com/in/patrickcaminhas/">
