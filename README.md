@@ -1,9 +1,10 @@
 <h3 align="center">💬 Sobre mim: </h3>
-<h4 align="left">Sou desenvolvedor e estudante na Universidade Federal de Ouro Preto.</h3>
+<h4 align="left">Sou desenvolvedor Back-end</h3>
 
-- 💫 Estou no 8º periodo de Sistemas de informação
-- 🌱 Atualmente estou estudando **Javascript**, **Laravel** e **Vue.js**.
-- 🏙️ Atualmente estrou trabalhando no meu TCC que tem como tema de desenvolvimento web focado para auxiliar meis, micro e pequenas empresas, a aplicação se chama <a href="https://github.com/PatrickCaminhas/SimplifiqSystem">Simplifiq</a>.
+- 💫 Graduado em Sistemas de informação pela Universidade Federal de Ouro Preto.
+- 🌱 Atualmente estou estudando **Javascript** e **C#**.
+- 🏙️ Meu projeto mais recente é meu TCC, um sistema web multitenant focado para auxiliar micro e pequenas empresas, a aplicação se chama <a href="https://github.com/PatrickCaminhas/SimplifiqSystem">Simplifiq</a>.
+- ⚙️ Atualmente estou desenvolvendo um sistema desktop de cadastro de consertos para uma sapataria. 
 - 📈 Estou em busca de aprimoramento e aberto a novas possibilidades no mercado.
 <p  align="center"><a href="https://www.linkedin.com/in/patrickcaminhas/">
 <img   src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="55"/>
@@ -15,16 +16,16 @@
 
 <h3 align="center">Linguagens e ferramentas:</h3>
 <p align="center"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>  
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"  width="40" height="40"/> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40"/></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+          
+           
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="php" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"  width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
 </p>
 
 <p align="center"> 
