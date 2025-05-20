@@ -1,4 +1,4 @@
-<h3 align="center">💬 Sobre mim: </h3>
+## 💬 Sobre mim: 
 <h4 align="left">Sou desenvolvedor Back-end</h3>
 
 - 💫 Graduado em Sistemas de informação pela Universidade Federal de Ouro Preto.
@@ -6,27 +6,28 @@
 - 🏙️ Meu projeto mais recente é meu TCC, um sistema web multitenant focado para auxiliar micro e pequenas empresas, a aplicação se chama <a href="https://github.com/PatrickCaminhas/SimplifiqSystem">Simplifiq</a>.
 - ⚙️ Atualmente estou desenvolvendo um sistema desktop de cadastro de consertos para uma sapataria. 
 - 📈 Estou em busca de aprimoramento e aberto a novas possibilidades no mercado.
-<p  align="center"><a href="https://www.linkedin.com/in/patrickcaminhas/">
-<img   src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="55"/>
-</a>
+     
+
+## Linguagens e ferramentas:
+<p align="center">
+         
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff) [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](#) [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](#) [![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=fff)](#) [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
+ [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](#) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&style=for-the-badge&logoColor=fff)](#) [![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=fff)](#) [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)](#) [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](#) [![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=fff)](#)
+
 </p>
 
+### Contato
+<a href="https://www.linkedin.com/in/patrickcaminhas/">
+<img alt="Static Badge" src="https://custom-icon-badges.demolab.com/badge/in/patrickcaminhas/-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=%230079f1&labelColor=blue&color=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpatrickcaminhas%2F" height="35"> </a>
 
-          
+<img alt="Static Badge" src="https://img.shields.io/badge/Gmail-patrickcaminhasm%40gmail.com-red?style=for-the-badge&logo=gmail&labelColor=black&color=red" height="35"> <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-patrickcmatos%40ieee.org-blue?style=for-the-badge&logo=gmail&labelColor=black&color=blue" height="35">
 
-<h3 align="center">Linguagens e ferramentas:</h3>
-<p align="center"> 
-<a href="https://github.com/PatrickCaminhas?tab=repositories&q=&type=&language=php&sort="><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-<a href="https://github.com/PatrickCaminhas?tab=repositories&q=&type=&language=blade&sort="><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="php" width="40" height="40"/></a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"  width="40" height="40"/>
-<a href="https://github.com/PatrickCaminhas?tab=repositories&q=&type=&language=c%23&sort="><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
-<a href="https://github.com/PatrickCaminhas?tab=repositories&q=&type=&language=blade&sort="><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
-<a href="https://github.com/PatrickCaminhas?tab=repositories&q=&type=&language=c%23&sort="><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40"/></a>
-</p>
+
+
+
+
 
 <p align="center"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=patrickcaminhas&show_icons=true&rank_icon=github&locale=en&hide=prs&theme=chartreuse-dark" alt="patrickcaminhas" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickcaminhas&show_icons=true&locale=en&hide=prs&theme=chartreuse-dark&layout=compact" alt="patrickcaminhas" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=patrickcaminhas&show_icons=true&rank_icon=github&locale=en&hide=prs&theme=chartreuse-dark" alt="patrickcaminhas" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickcaminhas&show_icons=true&locale=en&hide=prs&theme=chartreuse-dark&layout=compact" alt="patrickcaminhas" />
 </p> 
 
