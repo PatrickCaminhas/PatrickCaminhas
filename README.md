@@ -2,9 +2,9 @@
 <h4 align="left">Sou desenvolvedor Back-end</h3>
 
 - 💫 Graduado em Sistemas de informação pela Universidade Federal de Ouro Preto.
-- 🌱 Atualmente estou estudando **Javascript** e **C#**.
-- 🏙️ Meu projeto mais recente é meu TCC, um sistema web multitenant focado para auxiliar micro e pequenas empresas, a aplicação se chama <a href="https://github.com/PatrickCaminhas/SimplifiqSystem">Simplifiq</a>.
-- ⚙️ Atualmente estou desenvolvendo um sistema desktop de cadastro de consertos para uma sapataria. 
+- 🌱 Atualmente estou estudando **Javascript**, **Laravel** e **C#**.
+- 🏙️ Meu projeto mais recente é um sistema de cadastro de consertos e vendas para sapatarias com geração de relatórios de faturamento, <a href="https://github.com/PatrickCaminhas/Sistema-Sapataria">Sistema-Sapataria</a>.
+<!-- - ⚙️ Atualmente estou desenvolvendo um sistema desktop de cadastro de consertos para uma sapataria. -->
 - 📈 Estou em busca de aprimoramento e aberto a novas possibilidades no mercado.
      
 
