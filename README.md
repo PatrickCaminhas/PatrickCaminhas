@@ -5,7 +5,7 @@
 - 🌱 Atualmente estou estudando **Javascript** e **PHP***.
 - 🏙️ Meu projeto mais recente é um sistema de cadastro de consertos e vendas para sapatarias com geração de relatórios de faturamento, <a href="https://github.com/PatrickCaminhas/Sistema-Sapataria">Sistema-Sapataria</a>.
 <!-- - ⚙️ Atualmente estou desenvolvendo um sistema desktop de cadastro de consertos para uma sapataria. -->
-- 📈 Estou em busca de aprimoramento e aberto a novas possibilidades no mercado.
+- 📈 Estou em busca de aprimoramento.
      
 
 ## Linguagens e ferramentas:
