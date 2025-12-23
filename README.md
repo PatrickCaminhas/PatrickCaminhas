@@ -4,7 +4,6 @@
 - 💫 Graduado em Sistemas de informação pela Universidade Federal de Ouro Preto.
 - 🌱 Atualmente estou estudando **Java** e **PHP**.
 - 🏙️ Meu projeto mais recente é um sistema de gestão empresárial focado para micro e pequenos lojistas focado em agilizar o processo de vendas, <a href="https://github.com/PatrickCaminhas/gestaoEmpresarial">Sistema de Gestão Empresárial</a>.
-<!-- - ⚙️ Atualmente estou desenvolvendo um sistema desktop de cadastro de consertos para uma sapataria. -->
 - 📈 Estou em busca de aprimoramento.
      
 
